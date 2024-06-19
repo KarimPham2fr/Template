@@ -3,7 +3,7 @@
  *
  *  Created on: Jan 22, 2023
  *      Author: Phong Pham-Thanh
- *      Email:  Phong.PT.HUST@gmail.com
+ *       Email: Phong.PT.HUST@gmail.com
  */
 
 #ifndef _INC_..._
