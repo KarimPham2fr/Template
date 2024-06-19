@@ -37,7 +37,7 @@
  * @param[in]
  * @param[out]
  * @param[in/out]
- * @reVal:
+ * @return:
  * @note:
  */
 
